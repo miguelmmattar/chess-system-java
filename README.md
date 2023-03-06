@@ -2,7 +2,7 @@
 
 A full chess system application using only Java.
 
-<img src="" />
+<img src="/chess-system.jpeg" />
 
 ## About
 
